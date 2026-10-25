@@ -4,13 +4,13 @@ A Gradio web app that transcribes videos, summarizes text and transcripts, runs 
 ## Screenshots
 
 ### Video transcription & summarization
-![Video tab](screenshots/video-tab.png)
+![Video tab](screenshot/video-tab.png)
 
 ### Text summarization
-![Summary tab](screenshots/summary-tab.png)
+![Summary tab](screenshot/summary-tab.png)
 
 ### Sentiment analysis
-![Sentiment tab](screenshots/sentiment-tab.png)
+![Sentiment tab](screenshot/sentiment-tab.png)
 ## Features
 
 - **Video transcription** – speech-to-text with [OpenAI Whisper](https://github.com/openai/whisper)
