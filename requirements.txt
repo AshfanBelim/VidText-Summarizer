@@ -1,0 +1,7 @@
+gradio>=4.0
+torch
+openai-whisper
+transformers
+sentencepiece
+fpdf2
+python-docx

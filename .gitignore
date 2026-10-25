@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets / local config
+.env
+*.key
+
+# Editor: keep launch.json, ignore personal settings
+.vscode/settings.json
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Gradio runtime files
+flagged/
+.gradio/
+
+# User media and generated outputs
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.mp3
+*.wav
+*.m4a
+*.pdf
+*.docx
+
+# Downloaded model files
+*.pt
+*.bin
+*.safetensors
