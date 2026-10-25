@@ -3,8 +3,8 @@
 A Gradio web app that transcribes videos, summarizes text and transcripts, runs sentiment analysis, and exports results as PDF or Word files. Everything runs locally on your machine.
 ## Screenshots
 
-##Working
-![Working](screenshot/working.png)
+### Working
+![Working](screenshot/Working.png)
 
 ### Video transcription & summarization
 ![Video tab](screenshot/video-tab.png)
